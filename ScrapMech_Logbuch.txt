@@ -1,4 +1,4 @@
-Neues von Mittwoch 10.02.2021 - Jules SOLO
+﻿Neues von Mittwoch 10.02.2021 - Jules SOLO
 
 * Welding Tool gebaut (in Kiste 3)
 
@@ -27,6 +27,19 @@ Neues von Mittwoch 10.02.2021 - Jules SOLO
 	- kann mit Welding Tool an kleinem Block am Truck hinten befestigt werden
 	- zum Abkoppeln muss man den Block, an dem das Lager fest-geweldet wurde einfach entfernen
 	- Anhänger steht noch vollbeladen vor der Werkstatt auf "Beton-Plateau"
+
+
+
+
+Freitag 12.02.21 Felix ganz kurzes SOLO
+
+* Fahrzeug jetzt an allen sechs Rädern gefedert. Lenkung beim Beschleunigen / Fahrt schlechter, weil Federung hinten
+  noch zu weich und Fahrzeug durchgehend nach hinten nickt. (Überlegung ubgrade der Federbeine)
+
+
+
+
+
 
 
 TIPS/NEUES WISSEN:
