@@ -1,0 +1,45 @@
+Neues von Mittwoch 10.02.2021 - Jules SOLO
+
+* Welding Tool gebaut (in Kiste 3)
+
+* Bohrer gebaut und am Truck befestigt, kann vom Fahrersitz ein-/ausgeschaltet werden
+	- Motor am Bohrer braucht auch Gas, aber sollte sparsam sein da man ihn ein-/ausschalten kann
+	- Federn am Truck vorn sind auf max Härte, offenbar ist der Bohrer insane schwer
+
+* Auf dem Dach der Werkstatt ne Menge Mais gelagert
+
+* Gastank fast ganz voll
+
+* 1x20 Carrots angebaut (Kühlschrank)
+
+* Wocs wurden irgendwann nachts von Haybots abgeschlachtet xD
+	- scheisse, hab nml geschafft 5 Wocs zu fangen
+	- man kann den kleinen Baumstumpf am Zaun als Rampe nutzen, um Wocs direkt ins "Gehege" reinzulupfen :D
+	- festgestellt Woc heißt Cow rückwärts
+
+
+
+* Truck umgebaut
+	-Ladekäfig quer und tiefer eingebaut für besseren/tieferen Schwerpunkt
+		(Truck driftet jetzt geil aber kippt nichtmehr um)
+
+* Anhänger gebaut (evtl Power am Truck-Motor hochschrauben)
+	- kann mit Welding Tool an kleinem Block am Truck hinten befestigt werden
+	- zum Abkoppeln muss man den Block, an dem das Lager fest-geweldet wurde einfach entfernen
+	- Anhänger steht noch vollbeladen vor der Werkstatt auf "Beton-Plateau"
+
+
+TIPS/NEUES WISSEN:
+- wenn man nachts ne Expedition macht sieht man durch die Dunkelheit mega viele Kisten die leuchten, 
+  kann man gut loot abstauben, wenn man vorsichtig is
+
+- mit dem Bohrer kann man die Steine anbohren und danach mit Sledgehammer zerkleinern,
+  da kommen selten auch Metallstangen raus, die man mit dem Refinebot direkt zu Metal Block 1
+  verarbeiten kann
+
+- Refinebot priorisiert einen Ressourcen-Typ wenn verschiedene im Ladekäfig sind, sehr nice!
+
+- "wilde" Haybots machen Zäune kaputt und killen Wocs.
+
+- um Wasserkanister herzustellen reicht es aus, wenn man volle Eimer im Inventar hat, die Eimer bekommt man
+  danach zurückerstattet sobald man das Water lootet
